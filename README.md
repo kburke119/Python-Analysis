@@ -1,10 +1,10 @@
-# Python Analysis
+## Python Analysis
 
-## Background
+#### Background
 Create python scripts to analyze the financial and election results below.
 
 
-## Financial Analysis (PyBank)
+#### Financial Analysis (PyBank)
 
 Analyzes the financial data to calulate the following values:
 
@@ -21,7 +21,7 @@ Results
 - Greatest Increase in Profits: Aug-16 ($1,862,002)
 - Greatest Decrease in Profits: Feb-14 ($-1,825,558)
 
-## Election Analysis (PyPoll)
+#### Election Analysis (PyPoll)
 
 Analyzes the election results to calucalte the following values:
 
