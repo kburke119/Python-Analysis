@@ -1,7 +1,7 @@
 ## Python Analysis
 
 #### Background
-Create python scripts to analyze the financial and election results below.
+Create python scripts to analyze the financial and election data below.
 
 
 #### Financial Analysis (PyBank)
