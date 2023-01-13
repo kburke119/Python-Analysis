@@ -14,12 +14,9 @@ Analyzes the financial data to calulate the following values:
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
 
-Results
-- Total Months: 86
-- Total: $22,564,198
-- Average Change: $-8,311.11
-- Greatest Increase in Profits: Aug-16 ($1,862,002)
-- Greatest Decrease in Profits: Feb-14 ($-1,825,558)
+**Results**
+
+![PyBank](https://user-images.githubusercontent.com/10196762/212223042-03a6949d-987b-446e-8a8d-14d707fdbe57.jpg)
 
 #### Election Analysis (PyPoll)
 
@@ -31,9 +28,9 @@ Analyzes the election results to calucalte the following values:
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
 
-Election Results
-- Total Votes: 369,711
-- Charles Casper Stockham: 23.049% (85,213)
-- Diana DeGette: 73.812% (272,892)
-- Raymon Anthony Doane: 3.139% (11,606)
-- Winner: Diana DeGette
+**Election Results**
+
+![PyPoll](https://user-images.githubusercontent.com/10196762/212223059-28294105-18a5-4508-bb2b-c81749b7dfdf.jpg)
+
+
+
